@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of those persons who have licenses, or letters patents under the great seal of England, for the keeping of taverns, and selling of wines by retail.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18732</idno><idno type="EEBO-CITATION">99885646</idno>
+  <idno type="VID">185491</idno>
+  <idno type="EEBO-PROQUEST">2248538518</idno>
+  
+            <idno type="STC">Wing C1190C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[38]</idno>
+            <idno type="STC">ESTC R224776</idno>
+            <idno type="PROQUEST">ocm99885646</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885646e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185491)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of those persons who have licenses, or letters patents under the great seal of England, for the keeping of taverns, and selling of wines by retail.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  Taxation --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185491:1"/>
+            <pb facs="tcp:185491:1"/>
+            <head>THE CASE OF Those Persons who have <hi>Licenses,</hi> or <hi>Letters Patents</hi> under the Great Seal of ENGLAND, for the Keeping of <hi>Taverns,</hi> and Selling of <hi>Wines</hi> by Retail.</head>
+            <p>THAT the said Letters Patents were without hearing of the Patentees, or any notice had thereof, disallowed and made void, by a late Act of the last Par<g ref="char:EOLhyphen"/>liament, entituled, <hi>An Act for the better Ordering the selling of Wines by Retail, &amp;c.</hi> and which was confirmed in the gross with divers other Acts by this Parliament.</p>
+            <p n="2">2. That the said Letters Patents were granted by King CHARLES the First (of glorious and blessed Memory, and his Royal Progenitors) unto the Paten<g ref="char:EOLhyphen"/>tees during their lives, in consideration of valuable sums of Money, <hi>viz.</hi> 100 <hi>l.</hi> 200 <hi>l.</hi> and other sums which were severally paid as Fines by the Patentees, and certain yearly Rents, reserved to be paid unto the Crown, and Bonds given to the Crown for payment of the said Rents, and the Patentees are still liable to be sued upon the said Bonds for the growing Rents, and to have their Estates and Goods extended and seized.</p>
+            <p n="3">3. That in the Act 21 <hi>Jacobi cap.</hi> 3. which puts down Monopolies, the Wine Licenses are excepted, and the Grants or Letters Patents of the same before and afterwards to be made, established.
+<note n="*" place="margin">
+                  <hi>Provided also and be it Enacted, That this Act, or any Declaration, Provision, Penalty, Forfeiture, or other thing before mentioned, shall not extend or be prejudicial to any Grant, Letters Patents, or Commission heretofore granted, or hereafter to be granted, of, for, or concerning the Licensing of the keeping of any Tavern or Taverns, or selling, uttering, or retailing of Wines to be drunk or spent in the Mansion house or houses, or other place in the tenure or occupation of the party or parties so selling or uttering the same, or for or concerning the making of any Compositions for such Licenses; so as the benefit of such Compositions be reserved and applied to and for the use of his Majesty, his Heirs or Successors, and not to the private use of any other person or persons.</hi>
+               </note>
+            </p>
+            <p n="4">4. The said Grants or Letters Patents have been made and confirmed above six score years.</p>
+            <p n="5">5. There was no other way or means of taking Wine-Licenses when the Patentees took theirs, and if they had not taken such Licenses they had incurred great penalties by the Law: And the Customes arising to the Crown by Wines had been much less, if the vent thereof had been stopped for want of Licenses.</p>
+            <p n="6">6. All the late Usurped Powers, when many other Letters Patents, bearing date after the twelfth year of the Reign of his late Majesty, were by great injustice disallowed, did allow the said Grants or Letters Patents.</p>
+            <p n="7">7. Most of the Patentees have been great sufferers for their Loyalty and services to his Majesty that now is, and his Royal Father (of ever blessed Memory) and some of them have compounded at <hi>Haberdashers-Hall</hi> for the said Grants or Letters Patents, and afterwards were decimated, and the whole Livelyhood of divers of them and their Families dependeth upon the benefit of the said Grants.</p>
+            <p n="8">8. Some of the said Letters Patents were granted to persons in Trust, for and towards the maintenance of Hospitals, and for other pious and charitable uses.</p>
+            <p n="9">9. Some of the said Grants or Letters Patents have been given and received as Marriage Portions, in consideration whereof Joyntures have been settled, and others having been leased with houses by the Grantees (being owners thereof) for a certain term of years yet to come; the said Grantees are necessitated to give more Rent for new Licenses (if they take any) then they receive for their houses and old Licences together: Which new Licences, if they refuse to take, they are lyable to be sued by their Lessees.</p>
+            <p n="10">10. Although the said Letters Patents be allowed, the profits arising by the rest of the Wine-Licenses, will exceed that Revenue, which the last Parliament did set upon all the Wine-Licenses when they rated the same, and settled them upon his Majesty as part of his Majesties Revenue.</p>
+            <p n="11">11. The said Grants or Letters Patents are to continue only during the lives of the Grantees, most of whom are ancient persons, there having been no Grants made since the year 1643.</p>
+            <p n="12">12. It is already Provided in the aforesaid Act <hi>for the better Ordering the Selling of Wines, &amp;c.</hi> That the Mayor and Burgesses of St. <hi>Albans</hi> shall enjoy the benefit of three Wine-Licenses granted unto them by Letters Patents for and towards the maintaining of a Free-school; which said Letters Patents having been granted (as they were) out of meer grace and favour, the Patentees hope, that they in regard of the valuable considerations which they paid, and of their great sufferings for their Loyalty, and the whole live<g ref="char:EOLhyphen"/>lyhood of them and their Wives and Children depending upon the benefit of their said Letters Patents, and the other reasons aforesaid, shall obtain the same justice or favour.</p>
+            <p n="13">13. The Patentees do humbly conceive, that the said Letters Patents which were granted for and towards the maintaining of Hospitals and for other pious and charitable uses, ought according to reason and equity to be allowed, as well as the aforesaid Letters Patents which were granted towards the maintaining of the Free-school at St. <hi>Albans.</hi>
+            </p>
+            <p n="14">14. That the Honourable House of Commons in their former Session was pleased to referre the Petition of the Patentees (then presented) unto a Committee, who made report that the Petitioners had just cause of grievance, and ought to be relieved.</p>
+            <p n="15">15. That thereupon the said Honourable House in regard they could not then by the Orders and Rules thereof, repeal any part of an Act made in the same Session, for a present Expedient thought fit to recommend the Petition and Case of the Petitioners unto his Majesty, as worthy of his Princely consideration and relief; And three of the Members of that Honourable House by Order thereof did attend his Majesty with the same; and his Majesty was graciously pleased to answer them that he would take the Petitioners Case into his speciall consideration.</p>
+            <p n="16">16. That his Majesty intending the Patentees should enjoy the benefit of their Letters Patents, and some of the present Agents, Commissioners and Farmers of the Wine-Licenses then presenting a Petition unto his Majesty, wherein they offered to allow all the said Letters Patents, his Majesty was pleased to referre the said Petition unto his Royal Highness the Duke of <hi>York,</hi> toward whose support and maintenance his Majesty had been plased to assigne all the Rents and Revenues arising out of, or by reason of the said Wine-Licenses.</p>
+            <p n="17">17. Thereupon certain Articles of Agreement were concluded and executed between his Royal Higness, and the present Agents, Commissioners and Farmers: whereby it is amongst other things agreed and concluded, That none of the Patentees should be questioned, sued, molested, or troubled by them the said Agents, Commissioners and Far<g ref="char:EOLhyphen"/>mers, their or any of their Deputies, Agents, or Assignes, for, or by reason of their retailing of Wines in pursuance of their respective Letters Patents: And further, by the said Articles, it is agreed, That his Majesties Royal Proclamation should be procured, commanding all persons but the Patentees, to compound and perfect their Agreements for Licenses by a certain time, with the said Commissioners.</p>
+            <p n="18">18. That in pursuance of the said Agreement made between his Royal Highness, and the present Agents, Commissioners and Farmers, the Commission granted to the for<g ref="char:EOLhyphen"/>mer Agents was called in, and a Commission was granted by his Majesty in or about the Moneth of <hi>June</hi> last, unto the present Agents, Commissioners and Farmers, who thereupon entred upon the management of the said Wine-Licenses, and his Majesties Royal Proclamation issued out soon after, according to the tenor of the said Articles.</p>
+            <p n="19">19. That his Majesty having granted all Arrears of Rents growing due since the Act of Indemnity, upon the said Letters Patents, unto two of the present Agents, Com<g ref="char:EOLhyphen"/>missioners and Farmers; several of the Patentees have paid their Arrears of Rents unto them accordingly: And the said Agents, Commissioners and Farmers, declared and promised unto some of the Patentees, that the said Letters Patents should be allowed and made good, and directed them to give notice to as many other persons concerned as they could, That all their respective Letters Patents should be allowed and made good.</p>
+            <p n="20">20. Nevertheless the present Agents, Commissioners and Farmers do refuse to allow the said Letters Patents, pretending they are disannulled and made void by a late Act of Parliament; and have troubled and sued several of the Patentees for retailing of Wines in pursuance of their said Letters Patents, and have by their Under-Agents and Messen<g ref="char:EOLhyphen"/>gers compelled several of the Patentees to give Bonds of great penalty, to appear before them the said Agents, Commissioners and Farmers, at their Office on a certain day and not to depart thence without their License; And have threatned, contrary to the Laws of the Realm, to seize upon the persons of several of the Patentees, unless they would enter into such Bonds, and pay unto them very unreasonable and unlawfull summes of money demanded of them, which for quietness sake they have paid more or less.</p>
+            <pb facs="tcp:185491:2"/>
+            <pb facs="tcp:185491:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
